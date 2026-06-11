@@ -7,3 +7,4 @@
 .codex/
 .hermes/
 .env.production
+.DS_Store

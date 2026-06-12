@@ -8,3 +8,4 @@
 .hermes/
 .env.production
 .DS_Store
+AGENTS.md
